@@ -8,3 +8,12 @@
 #logo{    
     width: 10%;       
 }
+#blu{
+    color: blue;
+}
+.evidenziato{
+    background-color: yellow;
+}
+ul{
+    padding-inline-start: 15px;
+}
