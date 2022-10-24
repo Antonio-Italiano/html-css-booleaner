@@ -1,0 +1,10 @@
+#contenitore{
+    height: 50px;
+    background-size: 100px;
+    background-color: rgb(0, 123, 194);  
+    background-image: url(../img/pattern.png);
+    
+}
+#logo{    
+    width: 10%;       
+}
