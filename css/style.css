@@ -33,4 +33,22 @@ ul{
 .sfocel{
     background-color: rgb(138, 138, 255);
 }
+h3{
+    color: grey;
+}
 
+#p1{
+    height: 208px;
+    width: 312px;
+    background-image: url(../img/monitor.jpg);    
+}
+
+#p2{
+    height: 208px;
+    width: 312px;
+    background-image: url(../img/graph.jpg);    
+}
+body{
+    width: 80%;
+    margin: auto;
+}
